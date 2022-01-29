@@ -1,0 +1,16 @@
+﻿$PBExportHeader$objetosv11.srj
+EXE:objetos_pb2021.exe,objetos.pbr,0,1,1,0,C:\Program Files (x86)\Appeon\Common\PowerBuilder\Runtime 21.0.0.1506
+CMP:0,0,0,2,0,0,0
+COM:Miguel Leeuwe
+DES:Find objects, search by one or two strings,  list repeated objects, automatic deletion of repeated datawindows and comparison of 2 versions of an application
+CPY:(MIT) You can use it freely
+PRD:Objetos Powerbuilder pb2012
+PVS:2021.1.0.0
+PVN:2021,1,0,0
+FVS:2021.1.0.0
+FVN:2021,1,0,0
+MAN:0,asInvoker,0
+PBD:objetosv11.pbl,,1
+OBJ:D:\PB_code\pb2021\Test\OBJETOS pb2021\objetosv11.pbl,ds_objetos,d
+OBJ:D:\PB_code\pb2021\Test\OBJETOS pb2021\objetosv11.pbl,w_principal,w
+OBJ:D:\PB_code\pb2021\Test\OBJETOS pb2021\objetosv11.pbl,objetosv11,a
