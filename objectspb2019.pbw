@@ -1,0 +1,7 @@
+Save Format v3.0(19990112)
+@begin Targets
+ 0 "SRC\\objetos.pbt";
+@end;
+DefaultTarget "SRC\\objetos.pbt";
+DefaultExportEncode "UTF-8";
+DefaultRemoteTarget "SRC\\objetos.pbt";
